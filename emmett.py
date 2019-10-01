@@ -1,5 +1,5 @@
 # emmett.py
-def emmett:
+def emmett():
     print("Hello, my name is Emmett")
     print("Is your name Emmett?")
     print("Yes/No")
